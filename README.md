@@ -9,14 +9,14 @@ The modeling codes in this repository are build on the open-source [`hIPPYlib`](
 ## Reference
 If you find this library useful in your research, please consider citing the following:
 ```
-@misc{qmconcology2025,
-      title={Predictive Digital Twins with Quantified Uncertainty for Patient-Specific Decision Making in Oncology}, 
-      author={Alexander D. Gilbert and Frances Y. Kuo and Dirk Nuyens and Graham Pash and Ian H. Sloan and Karen Willcox},
+@misc{gilbert2025qmc,
+      title={Quasi-Monte Carlo methods for uncertainty quantification of tumor growth modeled by a parametric semi-linear parabolic reaction-diffusion equation}, 
+      author={Alexander D. Gilbert and Frances Y. Kuo and Dirk Nuyens and Graham Pash and Ian H. Sloan and Karen E. Willcox},
       year={2025},
-      eprint={TODO},
+      eprint={2509.25753},
       archivePrefix={arXiv},
-      primaryClass={TODO},
-      url={TODO}, 
+      primaryClass={math.NA},
+      url={https://arxiv.org/abs/2509.25753}, 
 }
 ```
 
